@@ -1,1 +1,1 @@
-# forkify-slices
+# forkify
